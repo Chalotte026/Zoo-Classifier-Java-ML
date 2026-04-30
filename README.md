@@ -1,9 +1,9 @@
 # 🦁 Zoo Classifier (Java + Machine Learning) for study only
 
-โปรแกรมจำแนกประเภทสัตว์โดยใช้ AI (LMT Algorithm) พัฒนาด้วย Java Swing และ Weka Library
+โปรแกรมจำแนกประเภทสัตว์โดยใช้ AI (Hoeffding Tree) พัฒนาด้วย Java Swing และ Weka Library
 
 ## 📊 Model Performance
-- **Algorithm:** Logistic Model Tree (LMT)
+- **Algorithm:** Logistic Model Tree (Hoeffding Tree)
 - **Accuracy:** 96.03%
 - **Attributes:** 16 Features (Hair, Eggs, Milk, etc.)
 

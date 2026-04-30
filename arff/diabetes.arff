@@ -1,0 +1,13 @@
+@relation diabetes
+
+@attribute pregnant numeric
+@attribute plasma numeric
+@attribute pressure numeric 
+@attribute skin numeric 
+@attribute insulin numeric 
+@attribute bmi numeric BMI
+@attribute pedigree numeric
+@attribute age numeric
+@attribute class {tested_positive , tested_negative}
+
+@data 
